@@ -3,7 +3,7 @@ Script hecho en python para sacar la informacion del numero de telefono, Hecha c
 
 ocupa instalar requests y colorama (librerias de python)
 
-pip install requeests
+pip install requests
 
 pip install colorama
 
