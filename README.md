@@ -9,6 +9,6 @@ pip install colorama
 
 git clone https://github.com/DarkLeyh/infoNum.git
 
-chmod 777 infoNum.py
+chmod +x infoNum.py
 
 python3 infoNum.py
