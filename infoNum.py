@@ -7,6 +7,18 @@ init()
 
 api = '510f8c00e437e5c107b8629d2fe5ca20'
 
+print("""
+ _        __       _   _                 
+(_)_ __  / _| ___ | \ | |_   _ _ __ ___  
+| | '_ \| |_ / _ \|  \| | | | | '_ ` _ \ 
+| | | | |  _| (_) | |\  | |_| | | | | | |
+|_|_| |_|_|  \___/|_| \_|\__,_|_| |_| |_|
+                                         
+                                                                                             
+
+
+""")
+
 print(Fore.GREEN+"\nScript hecho por DW Dariel")
 
 numero = int(_raw_input("\nIngrese el numero: "))
