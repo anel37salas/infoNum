@@ -3,8 +3,11 @@ Script hecho en python para sacar la informacion del numero de telefono, Hecha c
 
 <img src="https://github.com/DarkLeyh/infoNum/blob/main/infoImg.png">
 
+# Requerimientos para usarlo
+
 ocupa instalar requests y colorama (librerias de python)
 
+~~~
 pip install requests
 
 pip install colorama
@@ -14,3 +17,4 @@ git clone https://github.com/DarkLeyh/infoNum.git
 chmod +x infoNum.py
 
 python3 infoNum.py
+~~~
